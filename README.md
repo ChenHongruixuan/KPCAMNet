@@ -17,6 +17,21 @@ numpy==1.13.3
 gdal==2.2.2
 ```
 
+## Results
+- The results of quantitative assessments:
+<div align=center>
+<img src="./figures/acc_ass_multi.png" width="70%">
+</div>
+
+- Predictions on our dataset:
+<center>
+
+|  Our Results   | Reference Image  |
+|  :----:  | :----:  |
+| <img src="./figures/change_map.png" >  | <img src="./figures/change_ref.png"> |
+</center>
+
+
 ## Citation
 Please cite our paper if you use this code in your research.
 ```
