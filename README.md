@@ -34,11 +34,15 @@ gdal==2.2.2
 ## Citation
 Please cite our paper if you use this code in your research.
 ```
-@article{wu2019unsupervised,
-  title={Unsupervised Change Detection in Multi-temporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network},
-  author={C. {Wu} and H. {Chen} and B. {Du} and L. {Zhang}},
-  journal={arXiv preprint arXiv:1912.08628},
-  year={2019}
+@article{wu2021unsupervised,
+  author={Wu, Chen and Chen, Hongruixuan and Du, Bo and Zhang, Liangpei},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Unsupervised Change Detection in Multitemporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TCYB.2021.3086884}
 }
 ```
 ## Q & A
