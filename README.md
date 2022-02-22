@@ -1,4 +1,4 @@
-# Unsupervised Change Detection in Multi-temporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network
+# Unsupervised Change Detection in Multitemporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network
 Code for [Unsupervised Change Detection in Multi-temporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network.](https://ieeexplore.ieee.org/document/9477493)
 
 <img src="./figures/kpcamnet.jpg">
