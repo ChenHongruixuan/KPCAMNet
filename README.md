@@ -34,14 +34,14 @@ gdal==2.2.2
 ## Citation
 Please cite our paper if you use this code in your research.
 ```
-@article{wu2021unsupervised,
+@article{Wu2022Unsupervised,
   author={Wu, Chen and Chen, Hongruixuan and Du, Bo and Zhang, Liangpei},
   journal={IEEE Transactions on Cybernetics}, 
   title={Unsupervised Change Detection in Multitemporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-15},
+  year={2022},
+  volume={52},
+  number={11},
+  pages={12084-12098},
   doi={10.1109/TCYB.2021.3086884}
 }
 ```
