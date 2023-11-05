@@ -17,7 +17,7 @@ gdal==2.2.2
 ```
 
 ## Dataset
-The datasets WH and HY used in our paper has been open-sourced! You can download them [here](http://sigma.whu.edu.cn/resource.php).   
+The datasets WH and HY used in our paper have been open-sourced! You can download them [here](http://sigma.whu.edu.cn/resource.php).   
 
 ## Results
 - The results of quantitative assessments:
