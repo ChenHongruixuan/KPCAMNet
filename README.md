@@ -54,7 +54,7 @@ python train_KPCAMNet.py
 
 
 ## Citation
-If this code or dataset contributes to your research, please consider citing our paper. We appreciate your support!🙂
+If this code or dataset contributes to your research, please kindly consider citing our paper. We appreciate your support!🙂
 ```
 @article{Wu2022Unsupervised,
   author={Wu, Chen and Chen, Hongruixuan and Du, Bo and Zhang, Liangpei},
