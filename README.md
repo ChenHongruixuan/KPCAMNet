@@ -21,7 +21,7 @@ numpy==1.13.3
 gdal==2.2.2
 ```
 ### Datasets
-Two binary change detection datasets, Wuhan and Hanyang, and one multi-class change detection dataset, Hanyang, are used in our work. The Wuhan and Hanyang datasets can be downloaded [here](http://sigma.whu.edu.cn/resource.php). For the QB dataset, please request distribution from Prof. [Chen Wu](mailto:chen.wu@whu.edu.cn).
+Two binary change detection datasets, WH and QU, and one multi-class change detection dataset, HY, are used in our work. You can download them here for reproducibility or your own research. [<a href="https://drive.google.com/file/d/1kR4yNafYdhuGSo4kPI1HwApmluY3L1Oq/view?usp=drive_link">GoogleDrive</a>], [<a href="https://pan.baidu.com/s/1WF3wTtZhZ-5hUul4UrLETg?pwd=jg6s">BaiduCloud</a>]
 <center>
 
 |  Dataset  |  Pre-event image  |  Post-event image  | Reference Image  |
